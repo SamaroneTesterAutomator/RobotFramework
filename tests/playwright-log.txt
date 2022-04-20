@@ -1,0 +1,106 @@
+{"level":30,"time":"2022-04-20T00:23:56.028Z","pid":14476,"hostname":"LP1753","msg":"Listening on 52248"}
+{"level":30,"time":"2022-04-20T00:23:56.112Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:23:56.113Z","pid":14476,"hostname":"LP1753","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:23:56.117Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:23:56.117Z","pid":14476,"hostname":"LP1753","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:23:56.122Z","pid":14476,"hostname":"LP1753","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-04-20T00:24:00.314Z","pid":14476,"hostname":"LP1753","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-04-20T00:24:00.319Z","pid":14476,"hostname":"LP1753","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-04-20T00:24:00.320Z","pid":14476,"hostname":"LP1753","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-04-20T00:24:00.351Z","pid":14476,"hostname":"LP1753","msg":"Changed active context"}
+{"level":30,"time":"2022-04-20T00:24:00.935Z","pid":14476,"hostname":"LP1753","msg":"Video path: undefined"}
+{"level":30,"time":"2022-04-20T00:24:00.935Z","pid":14476,"hostname":"LP1753","msg":"Changed active page"}
+{"level":30,"time":"2022-04-20T00:24:04.135Z","pid":14476,"hostname":"LP1753","msg":"End of node method newPage"}
+{"level":30,"time":"2022-04-20T00:24:04.156Z","pid":14476,"hostname":"LP1753","msg":"Start of node method setViewportSize"}
+{"level":30,"time":"2022-04-20T00:24:04.573Z","pid":14476,"hostname":"LP1753","msg":"End of node method setViewportSize"}
+{"level":30,"time":"2022-04-20T00:24:04.599Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:04.600Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with text=Estou com fome! in page."}
+{"level":30,"time":"2022-04-20T00:24:05.057Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:05.068Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getText"}
+{"level":30,"time":"2022-04-20T00:24:05.069Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=h1 strong in page."}
+{"level":30,"time":"2022-04-20T00:24:05.322Z","pid":14476,"hostname":"LP1753","msg":"Retrieved text for element css=h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2022-04-20T00:24:05.323Z","pid":14476,"hostname":"LP1753","msg":"End of node method getText"}
+{"level":30,"time":"2022-04-20T00:24:05.347Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:05.348Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with text=STARBUGS COFFEE in page."}
+{"level":30,"time":"2022-04-20T00:24:06.274Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:06.280Z","pid":14476,"hostname":"LP1753","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:06.281Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=#detail in page."}
+{"level":30,"time":"2022-04-20T00:24:06.295Z","pid":14476,"hostname":"LP1753","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:06.300Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getText"}
+{"level":30,"time":"2022-04-20T00:24:06.301Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=#detail in page."}
+{"level":30,"time":"2022-04-20T00:24:06.514Z","pid":14476,"hostname":"LP1753","msg":"Retrieved text for element css=#detail containing Categoria\nCafeteria\nQuem somos\nNada melhor que um café pra te ajudar a resolver um bug.\nHorários\nFunciona de segunda à sábado, de 6h às 22h"}
+{"level":30,"time":"2022-04-20T00:24:06.514Z","pid":14476,"hostname":"LP1753","msg":"End of node method getText"}
+{"level":30,"time":"2022-04-20T00:24:06.526Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:06.526Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Cappuccino com Chantilly\"]/../a[@class=\"add-to-cart\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:06.881Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:06.896Z","pid":14476,"hostname":"LP1753","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:06.896Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=#cart tr >> text=Cappuccino com Chantilly in page."}
+{"level":30,"time":"2022-04-20T00:24:06.926Z","pid":14476,"hostname":"LP1753","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:06.937Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:06.938Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Super Espreso\"]/../a[@class=\"add-to-cart\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.043Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.057Z","pid":14476,"hostname":"LP1753","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:07.057Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=#cart tr >> text=Super Espreso in page."}
+{"level":30,"time":"2022-04-20T00:24:07.081Z","pid":14476,"hostname":"LP1753","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:07.096Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.096Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with xpath=//span[text()=\"Starbugs 500 error\"]/../a[@class=\"add-to-cart\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.301Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.310Z","pid":14476,"hostname":"LP1753","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:07.310Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=#cart tr >> text=Starbugs 500 error in page."}
+{"level":30,"time":"2022-04-20T00:24:07.325Z","pid":14476,"hostname":"LP1753","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:07.332Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.332Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with text=Fechar Pedido in page."}
+{"level":30,"time":"2022-04-20T00:24:07.479Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.485Z","pid":14476,"hostname":"LP1753","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:07.485Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=.page-header in page."}
+{"level":30,"time":"2022-04-20T00:24:07.498Z","pid":14476,"hostname":"LP1753","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:07.504Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getText"}
+{"level":30,"time":"2022-04-20T00:24:07.504Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=.page-header in page."}
+{"level":30,"time":"2022-04-20T00:24:07.534Z","pid":14476,"hostname":"LP1753","msg":"Retrieved text for element css=.page-header containing  Finalize o seu pedido"}
+{"level":30,"time":"2022-04-20T00:24:07.534Z","pid":14476,"hostname":"LP1753","msg":"End of node method getText"}
+{"level":30,"time":"2022-04-20T00:24:07.543Z","pid":14476,"hostname":"LP1753","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.543Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Nome\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.602Z","pid":14476,"hostname":"LP1753","msg":"End of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.611Z","pid":14476,"hostname":"LP1753","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.611Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"E-mail\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.663Z","pid":14476,"hostname":"LP1753","msg":"End of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.668Z","pid":14476,"hostname":"LP1753","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.669Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=input[placeholder^=\"Confirmação\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.712Z","pid":14476,"hostname":"LP1753","msg":"End of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.717Z","pid":14476,"hostname":"LP1753","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.717Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Endereço\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.765Z","pid":14476,"hostname":"LP1753","msg":"End of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.771Z","pid":14476,"hostname":"LP1753","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.771Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=input[placeholder=\"Número\"] in page."}
+{"level":30,"time":"2022-04-20T00:24:07.815Z","pid":14476,"hostname":"LP1753","msg":"End of node method fillText"}
+{"level":30,"time":"2022-04-20T00:24:07.823Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.824Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with xpath=(//mt-radio//label)[1]//div in page."}
+{"level":30,"time":"2022-04-20T00:24:07.920Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.931Z","pid":14476,"hostname":"LP1753","msg":"Start of node method click"}
+{"level":30,"time":"2022-04-20T00:24:07.932Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with text=Concluir pedido in page."}
+{"level":30,"time":"2022-04-20T00:24:08.044Z","pid":14476,"hostname":"LP1753","msg":"End of node method click"}
+{"level":30,"time":"2022-04-20T00:24:08.057Z","pid":14476,"hostname":"LP1753","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:08.057Z","pid":14476,"hostname":"LP1753","msg":"Strict mode is enabled, find Locator with css=p >> text=Seu pedido foi recebido pelo restaurante. in page."}
+{"level":30,"time":"2022-04-20T00:24:08.239Z","pid":14476,"hostname":"LP1753","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-04-20T00:24:08.252Z","pid":14476,"hostname":"LP1753","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-04-20T00:24:08.595Z","pid":14476,"hostname":"LP1753","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-04-20T00:24:08.602Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:24:08.609Z","pid":14476,"hostname":"LP1753","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:24:08.613Z","pid":14476,"hostname":"LP1753","msg":"Changed active context"}
+{"level":30,"time":"2022-04-20T00:24:08.613Z","pid":14476,"hostname":"LP1753","msg":"Changing current active page"}
+{"level":30,"time":"2022-04-20T00:24:08.613Z","pid":14476,"hostname":"LP1753","msg":"Changed active page"}
+{"level":30,"time":"2022-04-20T00:24:08.625Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:24:08.629Z","pid":14476,"hostname":"LP1753","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:24:08.632Z","pid":14476,"hostname":"LP1753","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-04-20T00:24:08.632Z","pid":14476,"hostname":"LP1753","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-04-20T00:24:08.635Z","pid":14476,"hostname":"LP1753","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-04-20T00:24:08.635Z","pid":14476,"hostname":"LP1753","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-04-20T00:24:08.643Z","pid":14476,"hostname":"LP1753","msg":"Changed active context"}
+{"level":30,"time":"2022-04-20T00:24:08.643Z","pid":14476,"hostname":"LP1753","msg":"Changing current active page"}
+{"level":30,"time":"2022-04-20T00:24:08.643Z","pid":14476,"hostname":"LP1753","msg":"Changed active page"}
+{"level":30,"time":"2022-04-20T00:24:08.647Z","pid":14476,"hostname":"LP1753","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-04-20T00:24:08.741Z","pid":14476,"hostname":"LP1753","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-04-20T00:24:08.759Z","pid":14476,"hostname":"LP1753","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:24:08.760Z","pid":14476,"hostname":"LP1753","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-04-20T00:24:08.858Z","pid":14476,"hostname":"LP1753","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-04-20T00:24:09.086Z","pid":14476,"hostname":"LP1753","msg":"End of node method closeAllBrowsers"}
